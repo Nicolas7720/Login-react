@@ -1,7 +1,14 @@
 import React from "react";
 import "../Styles/CampoDeDigitacao.css";
 
-const CampoDeDigitacao = ({type, placeholder, label, id}) => {
+const CampoDeDigitacao = ({
+  type,
+  placeholder,
+  label,
+  id,
+  value,
+  setValor,
+}) => {
   return (
     <div className="form__campo-digitacao">
       <label form={id}>{label}</label>
@@ -9,6 +16,8 @@ const CampoDeDigitacao = ({type, placeholder, label, id}) => {
         type={type}
         placeholder={placeholder}
         id={id}
+        value={value}
+        onChange={(e) => setValor(e.target.value)}
         required
       />
     </div>
