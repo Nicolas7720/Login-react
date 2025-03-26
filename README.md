@@ -38,6 +38,7 @@ Atualmente, os links e botões não possuem funcionalidade conectada, mas o desi
 
 ![Uploading LoinReact2.gif…]()
 
+
 🚀 Como Executar o Projeto
 
 1. Clone este repositório:
