@@ -36,7 +36,7 @@ Atualmente, os links e botões não possuem funcionalidade conectada, mas o desi
 
 📸 Demonstração
 
-![Uploading LoinReact2.gif…]()
+![LoinReact2](https://github.com/user-attachments/assets/0c32c16b-922d-45d2-971c-f37dd5dad26c)
 
 
 🚀 Como Executar o Projeto
