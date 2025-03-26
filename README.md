@@ -42,7 +42,7 @@ Atualmente, os links e botões não possuem funcionalidade conectada, mas o desi
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Nicolas7720/Login-react/tree/main
 
 
 2. Acesse a pasta do projeto:
